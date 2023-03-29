@@ -1,6 +1,5 @@
 ### Hi there 👋, Ajay Asok
 #### Full-Stack Dev.
-![Full-Stack Dev.](https://media.licdn.com/dms/image/D4E16AQE1N57AppFFgg/profile-displaybackgroundimage-shrink_350_1400/0/1665741984474?e=1679529600&v=beta&t=lwjh4whctnnpdR79NpJTyQSdylz2WvL-Udu8uRESyx0)
 
 Hi, I'm Ajay, an entry level full stack dev exploring the realm of tech. ;)
 
