@@ -1,6 +1,6 @@
 ### Hi there 👋, Ajay Asok
 #### Full-Stack Dev.
-![Full-Stack Dev.](https://media.licdn.com/dms/image/D4E16AQE1N57AppFFgg/profile-displaybackgroundimage-shrink_350_1400/0/1665741984474?e=1679529600&v=beta&t=lwjh4whctnnpdR79NpJTyQSdylz2WvL-Udu8uRESyx0](https://media.licdn.com/dms/image/D4E16AQE1N57AppFFgg/profile-displaybackgroundimage-shrink_350_1400/0/1665741984474?e=1685577600&v=beta&t=_zalXDiBd9i40xLii6-FyVY5MfwqkXp275hlMJJI7OE)
+![Full-Stack Dev.](https://media.licdn.com/dms/image/D4E16AQE1N57AppFFgg/profile-displaybackgroundimage-shrink_350_1400/0/1665741984474?e=1679529600&v=beta&t=lwjh4whctnnpdR79NpJTyQSdylz2WvL-Udu8uRESyx0)
 
 Hi, I'm Ajay, an entry level full stack dev exploring the realm of tech. ;)
 
@@ -13,5 +13,3 @@ Skills: Node / REACT / JS / MongoDB / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ajay-asok-634688250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_.aj4y//)  
-
-
