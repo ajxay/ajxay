@@ -9,7 +9,7 @@ I'm Ajay, a passionate self-taught full stack web developer and a freelance soft
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,js,ts,express" />
+<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,gcp,ts,express" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
 <a/> <br/>
