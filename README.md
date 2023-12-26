@@ -9,9 +9,9 @@ I'm Ajay, a passionate self-taught full stack web developer and a freelance soft
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,gcp,ts,express" />
+<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
+<a><img src="https://skillicons.dev/icons?i=mongodb,js,ts,redux" />
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
 <a/>
