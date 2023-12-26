@@ -9,14 +9,13 @@ I'm Ajay, a passionate self-taught full stack web developer and a freelance soft
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express" />
+<a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,mongodb" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=mongodb,js,ts,redux,html,css" />
+<a><img src="https://skillicons.dev/icons?i=js,ts,redux,html,css,figma" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=aws,firebase,gcp,git," />
+<a><img src="https://skillicons.dev/icons?i=aws,firebase,gcp,git,postman,nginx" />
 <a/>
  <br/>
-<a><img src="https://skillicons.dev/icons?i=postman,netlify,figma,nginx" />
-<a/>
+
 
     
