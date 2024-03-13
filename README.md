@@ -5,8 +5,8 @@ I'm Ajay, a passionate self-taught software engineer from India. my passion for 
 
   <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
   
-- 💼 any Help? do reach, [email](mailto:mail.ajayasok@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 Any Help? do reach, [email](mailto:mail.ajayasok@gmail.com) :)
+- 💬 Ask me about anything, I am happy to help 🤙🏻
 
 **languages and tools:**  
 <a><img src="https://skillicons.dev/icons?i=nextjs,nestjs,react,nodejs,express,mongodb" />
