@@ -15,7 +15,7 @@ I'm Ajay, a passionate self-taught software engineer from India. my passion for 
 <a/> <br/>
 <a><img src="https://skillicons.dev/icons?i=aws,firebase,gcp,git,postman,nginx" />
 <a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=docker,postgres,gcp,git,postman,nginx" />
+<a><img src="https://skillicons.dev/icons?i=docker,postgres,prisma" />
 <a/>
  <br/>
 
