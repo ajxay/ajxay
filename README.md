@@ -1,6 +1,6 @@
 ### Ajay - Software Developer
 
-I'm Ajay, a passionate self-taught software engineer from India. my passion for development lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Ajay, a 3 year experienced, passionate, self-taught software engineer from India. my passion for development lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/malik-dinar/malik-dinar/blob/main/code.gif" width="500" height="320" />
